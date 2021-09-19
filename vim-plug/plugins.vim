@@ -57,6 +57,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'honza/vim-snippets'
     " Codi
     Plug 'metakirby5/codi.vim'
+    " Bbye
+    Plug 'moll/vim-bbye'
+    
 
   endif    
 
