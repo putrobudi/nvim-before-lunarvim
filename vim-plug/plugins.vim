@@ -59,6 +59,11 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'metakirby5/codi.vim'
     " Bbye
     Plug 'moll/vim-bbye'
+    " Git
+    Plug 'mhinz/vim-signify'
+    Plug 'tpope/vim-fugitive'
+    Plug 'tpope/vim-rhubarb'
+    Plug 'junegunn/gv.vim'
     
 
   endif    
